@@ -1,0 +1,76 @@
+div {
+    margin: 0;
+	padding: 0;
+}
+
+div#img > img {
+    height : 200px;
+}
+
+section {
+    padding : 2px 0px;
+}
+
+section:hover {
+    background-color : #f0f0f0;
+}
+
+section > table {
+    margin : 5px 2px;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+table tr td,
+table tr th {
+    border : 1px solid black;
+    padding : 0;
+    text-align : center;
+}
+
+col.period {
+    width : 240px;
+}
+
+col.company {
+    width : 200px;
+}
+
+col.info1 {
+    width : 150px;
+}
+
+col.institution {
+    width : 200px;
+}
+
+col.info2 {
+    width : 450px;
+}
+
+col.issue_date {
+    width : 150px;
+}
+
+col.cert_name {
+    width : 200px;
+}
+
+col.issue_auth {
+    width : 200px;
+}
+
+col.school_name {
+    width : 150px;
+}
+
+col.department {
+    width : 200px;
+}
+
+col.graduate_cat {
+    width : 100px;
+}
